@@ -1,5 +1,6 @@
 "use server";
 
+import React from "react";
 import ContactFormEmail from "@/email/ContactFormEmail";
 
 import { validateString, getErrorMessage } from "@/lib/utils";
