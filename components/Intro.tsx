@@ -65,7 +65,7 @@ const Intro = () => {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Hello! I'm Stepan Korshukov</span>, a skilled web developer with <span className="font-bold">7 years of experience</span>. I love building captivating <span className="italic">websites and apps</span>, focusing on JavaScript. <span className="font-bold">Let's make</span> your online world <span className="font-bold">unique and functional</span>!
+        <span className="font-bold">Hello! I&apos;m Stepan Korshukov</span>, a skilled web developer with <span className="font-bold">7 years of experience</span>. I love building captivating <span className="italic">websites and apps</span>, focusing on JavaScript. <span className="font-bold">Let&apos;s make</span> your online world <span className="font-bold">unique and functional</span>!
       </motion.h1>
 
       <motion.div
