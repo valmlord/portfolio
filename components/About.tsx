@@ -24,7 +24,7 @@ const About = () => {
       </p>
 
       <p>
-        <span className="italic">Outside of coding</span>I relish spending time with my family, going for runs, fishing, and hitting the gym. My appetite for learning is insatiable—I&apos;m currently delving into <span className="font-medium">computer science</span> and <span className="font-medium">mathematics</span>. Additionally, I&apos;m honing my skills on various musical instruments.
+        <span className="italic">Outside of coding</span> I relish spending time with my family, going for runs, fishing, and hitting the gym. My appetite for learning is insatiable — I&apos;m currently delving into <span className="font-medium">computer science</span> and <span className="font-medium">mathematics</span>. Additionally, I&apos;m honing my skills on various musical instruments.
       </p>
     </motion.section>
   );
