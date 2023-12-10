@@ -15,7 +15,3 @@ The portfolio site is developed using modern web technologies and is designed to
 - **Experience:** Details of my professional experience, highlighting key roles, responsibilities, and achievements.
 
 - **Contact:** How to get in touch with me. If you have any questions or proposals, feel free to reach out.
-
-### Please visit my website
-
-https://www.korshukovstepan.dev
