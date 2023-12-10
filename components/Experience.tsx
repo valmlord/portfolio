@@ -13,12 +13,10 @@ import {
 } from "react-vertical-timeline-component";
 import "react-vertical-timeline-component/style.min.css";
 
-import { useInView } from "react-intersection-observer";
+import { useSectionInView } from "@/lib/hooks";
 
 const Experience = () => {
-  const { ref, inView } = useInView({
-    triggerOnce: true,
-  });
+  const { ref } = useSectionInView("Experience", 0.5);
 
   const { theme } = useTheme();
 
@@ -29,7 +27,7 @@ const Experience = () => {
         {experiencesData.map((item, index) => (
           <React.Fragment key={index}>
             <VerticalTimelineElement
-              visible={inView}
+              visible={true}
               contentStyle={{
                 background:
                   theme === "light" ? "#f3f4f6" : "rgba(255, 255, 255, 0.05)",
