@@ -5,6 +5,7 @@ import { FaPhp } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 
 import taskifyImg from "@/public/taskify.png";
+import hippoImg from "@/public/hippo-icons.png";
 
 export const links = [
   {
@@ -68,6 +69,14 @@ export const projectsData = [
       "Optimize your productivity with my task manager – a stylish Trello clone. Create boards, move tasks, manage projects easily and efficiently.",
     tags: ["React", "Next.js", "Typescript", "MySQL", "Tailwind", "Prisma"],
     imageUrl: taskifyImg,
+  },
+  {
+    title: "HippoIcons",
+    link: "https://hippo-icons.korshukovstepan.dev",
+    description:
+      "Welcome to HippoIcons, this marketplace offers a platform for buying and selling digital assets like icons and UI kits, fostering innovation in digital design.",
+    tags: ["React", "Next.js", "Typescript", "MongoDB", "tRPC", "Express"],
+    imageUrl: hippoImg,
   }
 ] as const;
 
