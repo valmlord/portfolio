@@ -39,7 +39,7 @@ export const experiencesData = [
     title: "Self-study education",
     location: "Saint-Petersburg, Russia",
     description:
-      "What started as a hobby has evolved into a fascinating journey into the realm of programming. Immersing myself in the foundational aspects of web development and computer science, this exploration began as a passion project and has since transformed into a dedicated pursuit. Through this ongoing journey, I've not only gained a deeper understanding of the fundamentals but also witnessed the gradual progression from a hobbyist's enthusiasm to a more profound engagement with the intricate world of coding.",
+      "My hobby of programming has become a dedicated pursuit, deepening my understanding and engagement with web development and computer science.",
     icon: React.createElement(LuGraduationCap),
     date: "since 2017",
   },
@@ -47,7 +47,7 @@ export const experiencesData = [
     title: "PHP developer",
     location: "Saint-Petersburg, Russia",
     description:
-      "I bring substantial expertise as a PHP WordPress developer, with a significant focus on one year of dedicated front-end development in this role. Along the course of my professional journey, I've broadened my skills to encompass end-to-end development. Moreover, I possess hands-on experience and proficiency in frameworks like Laravel and Yii, further enhancing my capabilities in delivering comprehensive solutions.",
+      "As a PHP WordPress developer, I’ve expanded my skills to full-stack development and gained proficiency in Laravel and Yii frameworks.",
     icon: React.createElement(FaPhp),
     date: "2019 - 2020",
   },
@@ -55,7 +55,7 @@ export const experiencesData = [
     title: "UX/UI Designer, Frontend developer",
     location: "Alanya, Turkish Republic",
     description:
-      "In my remote role with an American company, INFUSEmedia, I initially focused on designing email layouts for partner advertising campaigns, including the responsive HTML coding. Over time, my responsibilities expanded to encompass crafting custom landing pages for various advertising initiatives. Additionally, I actively contributed as a frontend developer to external projects, enhancing my versatility in digital marketing endeavors. This experience has honed my skills in email design, coding, and frontend development within the dynamic landscape of the advertising industry.",
+      "In my remote role at INFUSEmedia, I designed email layouts, crafted landing pages, and contributed to frontend development, honing my skills in digital marketing.",
     icon: React.createElement(CgWorkAlt),
     date: "2022 - present",
   },
