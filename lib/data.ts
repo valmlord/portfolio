@@ -6,6 +6,7 @@ import { LuGraduationCap } from "react-icons/lu";
 
 import taskifyImg from "@/public/taskify.png";
 import hippoImg from "@/public/hippo-icons.png";
+import pluraImg from "@/public/plura.png";
 
 export const links = [
   {
@@ -77,6 +78,14 @@ export const projectsData = [
       "Welcome to HippoIcons, this marketplace offers a platform for buying and selling digital assets like icons and UI kits, fostering innovation in digital design.",
     tags: ["React", "Next.js", "Typescript", "MongoDB", "tRPC", "Express"],
     imageUrl: hippoImg,
+  },
+  {
+    title: "Plura (In Process...)",
+    link: "https://plura.korshukovstepan.dev",
+    description:
+      "SaaS Website Builder, Project Management, and Dashboard. Empower your business with seamless integration, robust features, and streamlined workflow.",
+    tags: ["React", "Next.js", "Typescript", "MySQL", "Prisma", "Stripe"],
+    imageUrl: pluraImg,
   }
 ] as const;
 
